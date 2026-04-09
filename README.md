@@ -1,4 +1,5 @@
 ➤Ağ Sistemleri Entegrasyon Projesi
+
 Bu çalışma, kurumsal bir ağ altyapısının farklı birimler ve şubeler arasında
 nasıl entegre edildiğini simüle eden kapsamlı bir Cisco Packet Tracer projesidir. 
 Proje, statik ve dinamik yapılandırmaların bir arada kullanıldığı uçtan uca bir ağ çözümünü içermektedir.
