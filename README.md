@@ -6,6 +6,7 @@ Proje, statik ve dinamik yapılandırmaların bir arada kullanıldığı uçtan 
 
 ➤Proje Kapsamı ve Özellikleri
 Bu entegrasyon projesinde aşağıdaki teknik yapılandırmalar gerçekleştirilmiştir:
+
 →VLAN Yapılandırması: Farklı departmanların (Muhasebe, Teknik, Yönetim vb.) 
 ağ trafiğini birbirinden izole ederek güvenliği ve performansı artırma.
 
